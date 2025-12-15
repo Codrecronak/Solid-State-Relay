@@ -28,6 +28,11 @@ This project demonstrates the design and implementation of a Solid-State Relay (
 4. The BTA41 TRIAC switches the AC load ON or OFF based on the control signal.
 5. The TRIAC naturally turns OFF at the AC zero-crossing when the control signal is removed.
 
+
+## Preview
+
+[Watch Project Demo](https://youtube.com/shorts/_4SUz_vUINs?si=3yqj3TIjAa78iPeo)
+
 ## Applications
 
 * Home automation systems
@@ -42,3 +47,4 @@ This project involves high-voltage AC mains. Proper insulation, PCB clearances, 
 ## Author
 
 Ronak Bansal
+
